@@ -1,7 +1,7 @@
 # My Portfolio
 My projetcs:
 - EDA
-- Algorithms ML in python
+- Algorithms of Machine learning, Deep leraning in Python and R
 - Decisions trees
 - SVM
 - LDA / QDA
