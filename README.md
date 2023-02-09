@@ -1,2 +1,2 @@
-# Portfolio
-My projetcs
+# My Portfolio
+My projetcs:
