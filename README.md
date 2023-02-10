@@ -17,3 +17,6 @@ My projetcs:
 - Data Warehouses
 - ETL
 - Big data
+- Data Science with R and Python
+- FreeCodeCamp Courses
+- Kaggle Competitions
