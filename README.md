@@ -3,7 +3,10 @@ My projetcs:
 - [Data Science with R and Python](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python)
   * [EDA](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python/tree/main/Projects/Python/Python-Projects/EDA)
   * [Time Series](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python/tree/main/Projects/Python/Python-Projects/Time-Series)
-
+  
+- [IBM Data Science Professional](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate)
+  * [Python Project for Data Science](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%205)
+  
 - FreeCodeCamp Courses:
   * [Scientific Computing with Python](https://github.com/FacuJulia/Scientific-Computing-with-Python-Certification)
   * [Data Analysis with Python](https://github.com/FacuJulia/Data-Analysis-with-Python-Certification)
