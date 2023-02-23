@@ -3,6 +3,7 @@ My projetcs:
 - [Data Science with R and Python](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python)
   * [EDA](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python/tree/main/Projects/Python/Python-Projects/EDA)
   * [Time Series](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python/tree/main/Projects/Python/Python-Projects/Time-Series)
+  * [Text mining](https://github.com/FacuJulia/Diploma-in-Data-Science-with-R-and-Python/tree/main/Projects/Python/Python-Projects/Text-Mining)
   
 - [IBM Data Science Professional](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate)
   * [Python Project for Data Science](https://github.com/FacuJulia/IBM-Data-Science-Professional-Certificate/tree/main/Course%205)
@@ -26,7 +27,6 @@ My projetcs:
 - Naive Bayes
 - Random Forest
 - Neural Networks
-- Text mining
 - Regresions
 - Data Warehouses
 - ETL
